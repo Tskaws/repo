@@ -1,0 +1,52 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>*BYU-Idaho Events (all listings)</title>
+        <link>http://calendar.byui.edu/</link>
+        <description/>
+        <pubDate>Mon, 23 Mar 2015 15:26:24 GMT</pubDate>
+        <lastBuildDate>Mon, 23 Mar 2015 17:37:56 GMT</lastBuildDate>
+        <category>Calendar of Events</category>
+        <atom:link href="http://calendar.byui.edu/RSSFeeds.aspx?data=tq9cbc8b%2btuQeZGvCTEMSP%2bfv3SYIrjQ3VTAXA335bE0WtJCqYU4mp9MMtuSlz6MRZ4LbMUU%2fO4%3d" rel="self" type="application/rss+xml"/>
+        <generator>:: Master Calendar ::</generator>
+        <copyright>2017</copyright>
+        <ttl>30</ttl>
+        <item>
+            <title>
+                <![CDATA[ Canoe and Dinner ]]>
+            </title>
+            <description xml:space="preserve">
+        <![CDATA[
+        4:00 PM to 9:00 PM - Off-Campus Warm Slough: Join us for a canoeing adventure as we paddle some of the local rivers and streams. It is a remarkably peaceful wilderness experience just a few minutes from town. Included is a light picnic following the activity.
+        ]]>
+      </description>
+            <category>Activities/Outdoor</category>
+            <pubDate>Fri, 26 May 2017 22:00:00 GMT</pubDate>
+            <link>
+                http://calendar.byui.edu/EventDetails.aspx?data=hHr80o3M7J6HnO3JDDT85nu2dnLlkiL1rzfXlDm%2b5xXUqSYFhQBxqm1RYvKaXI8I
+            </link>
+            <guid>
+                http://calendar.byui.edu/EventDetails.aspx?data=hHr80o3M7J6HnO3JDDT85nu2dnLlkiL1rzfXlDm%2b5xXUqSYFhQBxqm1RYvKaXI8I
+            </guid>
+            <enclosure url="http://calendar.byui.edu/imagewriter.aspx?imageId=9980" length="5000" type="image/jpg"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Zip Line and Dinner Date ]]>
+            </title>
+            <description xml:space="preserve">
+        <![CDATA[
+        4:00 PM to 10:00 PM - Outdoor Learning Center at Badger Creek Upper Element - Giant Zip Line: Enjoy dinner and our 750 foot zipline! Bring a date a get to know them while challenging yourself. Equipment, transportation, and meals are provided. Departs from the Outdoor Resource Center (located under the stadium). Contact olcevents@byui.edu for more information. Tickets are $9.
+        ]]>
+      </description>
+            <category>Activities/Outdoor</category>
+            <pubDate>Fri, 26 May 2017 22:00:00 GMT</pubDate>
+            <link>
+                http://calendar.byui.edu/EventDetails.aspx?data=hHr80o3M7J6QHZ6KAfqe%2bqwfdE5S%2bnLfrQsucHTNhcrYtWZQ9KL9IQFayVcC9VLe
+            </link>
+            <guid>
+                http://calendar.byui.edu/EventDetails.aspx?data=hHr80o3M7J6QHZ6KAfqe%2bqwfdE5S%2bnLfrQsucHTNhcrYtWZQ9KL9IQFayVcC9VLe
+            </guid>
+            <enclosure url="http://calendar.byui.edu/imagewriter.aspx?imageId=10050" length="5000" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
